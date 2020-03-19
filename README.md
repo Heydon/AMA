@@ -7,7 +7,7 @@
 
 ## Topics
 
-You can ask me about literally anything. If it's something I know nothing about I will make shit up about it and apply the [`bullshit`](https://github.com/Heydon/AMA/labels/bullshit) label.
+You can ask me about literally anything. If it's something I know nothing about, I will make shit up and apply the [`bullshit`](https://github.com/Heydon/AMA/labels/bullshit) label.
 
 However, here are some things that involve, interest, or otherwise affect me:
 
