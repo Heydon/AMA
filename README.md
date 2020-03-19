@@ -7,7 +7,7 @@
 
 ## Topics
 
-You can ask me about literally anything. If it's something I know nothing about I will make shit up about it (with a disclaimer that what I am saying is not, therefore, factual)..
+You can ask me about literally anything. If it's something I know nothing about I will make shit up about it (I'll point it out where I'm doing this).
 
 However, here are some things that involve, interest, or otherwise affect me:
 
